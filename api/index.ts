@@ -1,9 +1,9 @@
 import express from "express";
-import whatsappRoutes from "../src/routes/whatsappRoutes";
 
 const app = express();
 
-app.use(express.json());
-app.use("/whatsapp", whatsappRoutes);
+app.get("/", (req, res) => {
+  res.json({ status: "API running on Vercel" });
+});
 
 export default app;

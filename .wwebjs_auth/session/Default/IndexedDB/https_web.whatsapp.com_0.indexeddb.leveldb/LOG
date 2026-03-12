@@ -1,3 +1,20 @@
-2026/03/12-17:13:11.254 4a8c Reusing MANIFEST C:\Users\User\Documents\PLanillas marino\whassat\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2026/03/12-17:13:11.254 4a8c Recovering log #81
-2026/03/12-17:13:11.312 4a8c Reusing old log C:\Users\User\Documents\PLanillas marino\whassat\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000081.log 
+2026/03/12-17:21:47.054 3bb0 Reusing MANIFEST C:\Users\User\Documents\PLanillas marino\whassat\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/12-17:21:47.054 3bb0 Recovering log #81
+2026/03/12-17:21:47.111 3bb0 Reusing old log C:\Users\User\Documents\PLanillas marino\whassat\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000081.log 
+2026/03/12-17:21:50.190 5aa4 Level-0 table #90: started
+2026/03/12-17:21:50.215 5aa4 Level-0 table #90: 1086143 bytes OK
+2026/03/12-17:21:50.218 5aa4 Delete type=0 #81
+2026/03/12-17:21:51.070 5aa4 Compacting 1@1 + 5@2 files
+2026/03/12-17:21:51.106 5aa4 Generated table #91@1: 23788 keys, 2178739 bytes
+2026/03/12-17:21:51.128 5aa4 Generated table #92@1: 2735 keys, 2161850 bytes
+2026/03/12-17:21:51.168 5aa4 Generated table #93@1: 16828 keys, 2210709 bytes
+2026/03/12-17:21:51.208 5aa4 Generated table #94@1: 42386 keys, 2207144 bytes
+2026/03/12-17:21:51.267 5aa4 Generated table #95@1: 87504 keys, 1975815 bytes
+2026/03/12-17:21:51.267 5aa4 Compacted 1@1 + 5@2 files => 10734257 bytes
+2026/03/12-17:21:51.269 5aa4 compacted to: files[ 0 0 5 0 0 0 0 ]
+2026/03/12-17:21:51.270 5aa4 Delete type=2 #83
+2026/03/12-17:21:51.270 5aa4 Delete type=2 #84
+2026/03/12-17:21:51.270 5aa4 Delete type=2 #85
+2026/03/12-17:21:51.270 5aa4 Delete type=2 #86
+2026/03/12-17:21:51.270 5aa4 Delete type=2 #87
+2026/03/12-17:21:51.270 5aa4 Delete type=2 #90
